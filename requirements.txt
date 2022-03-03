@@ -1,0 +1,4 @@
+aiogram<3.0
+python-dotenv
+python3-anticaptcha
+fake-useragent
